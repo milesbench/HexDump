@@ -10,5 +10,6 @@ Displays offset, hex and text (Code Page 437) in a typical fashion for hexdump t
 
 -File information, metadata
 
+-Binary Visualisation
 # Contact
 milesbench@protonmail.ch
