@@ -9,3 +9,6 @@ Displays offset, hex and text (Code Page 437) in a typical fashion for hexdump t
 -Editor
 
 -File information, metadata
+
+# Contact
+milesbench@protonmail.ch
